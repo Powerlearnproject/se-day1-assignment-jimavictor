@@ -57,7 +57,7 @@ This stage introduced a new paradigm of programming which made written code to b
   - Strict compliance or documentation is required (e.g., government, healthcare, banking).
   - A fixed timeline and budget are necessary.
   
-  **Example:** Developing firmware for medical devices (where regulatory approval demands a clear, well-documented process).
+  **Example Scenario:** Developing firmware for medical devices (where regulatory approval demands a clear, well-documented process).
 
 #### WHEN TO USE AGILE
   Agile works well when:
@@ -65,7 +65,7 @@ This stage introduced a new paradigm of programming which made written code to b
   - Frequent user feedback is needed.
   - Speed and adaptability are priorities.
     
-  **Example:** Building a mobile app startup MVP, where user feedback can shape new features before finalizing the product.
+  **Example Scenario:** Building a mobile app startup MVP, where user feedback can shape new features before finalizing the product.
 
 ### e) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 **Software Developer:** Software Developers are responsible for designing and developing software to solve real-world problems. Their role involves applying engineering principles to software development to create scalable, efficient, and maintainable solutions.
