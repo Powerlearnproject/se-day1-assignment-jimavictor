@@ -80,15 +80,15 @@ Agile works well when:
 
 
 ### f) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-#### Importance of Integrated Development Environments (IDEs)
+-  **Importance of Integrated Development Environments (IDEs):**
 Integrated Development Environments (IDEs) are important because they provide code editing, debugging, and automation tools in one platform. Without IDEs, writing code would be more difficult and time-consuming.
 
-**Examples of IDEs include:** VS Code, IntelliJ IDEA, Eclipse, Android Studio, Xcode, PyCharm, WebStorm.
+   **Examples of IDEs include:** VS Code, IntelliJ IDEA, Eclipse, Android Studio, Xcode, PyCharm, WebStorm.
 
-#### Importance of Version Control Systems (VCS)
+- **Importance of Version Control Systems (VCS):**
 Version Control systems are important because they help in collaboration, preventing data loss, providing support for branching and merging, ensuring code integrity, as well as providing the ability for developers to rollback to stable versions of their code whenever it is needed.
 
-**Examples of IDEs include:** Git, Subversion (SVN), Mercurial, Perforce, CVS.
+  **Examples of IDEs include:** Git, Subversion (SVN), Mercurial, Perforce, CVS.
 
 
 ### g) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
