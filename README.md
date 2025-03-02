@@ -6,27 +6,27 @@ Software Engineering Day1 Assignment
 
 ### a) Explain what software engineering is and discuss its importance in the technology industry.
 
-#### What is software engineering?
+#### What is Software Engineering?
 
 Software engineering is the application of engineering principles and the knowledge of programming to the development of computer software. It is a process that involves designing, developing, testing, deploying, and maintaining software applications.
 
-#### Importance of software engineering in the tech industry?
+#### Importance of Software Engineering in the Tech Industry
 
-**Ensures Reliability and Quality:** Software engineering principles prioritize testing before deployment. Even if an application appears to be free of bugs, it is still recommended that the software be tested. Applications without bugs are good, but well-tested applications are impeccable. By prioritizing testing, software engineers can produce software that is reliable and high-quality.
+- **Ensures Reliability and Quality:** Software engineering principles prioritize testing before deployment. Even if an application appears to be free of bugs, it is still recommended that the software be tested. Applications without bugs are good, but well-tested applications are impeccable. By prioritizing testing, software engineers can produce software that is reliable and high-quality.
 
-**Enhances Security:** By following software engineering principles, software engineers are encouraged to write code using best practices to reduce software vulnerabilities to attacks.
+- **Enhances Security:** By following software engineering principles, software engineers are encouraged to write code using best practices to reduce software vulnerabilities to attacks.
 
-**Improves Efficiency and Productivity:** By following standardized practices such as Agile, DevOps, and CI/CD (Continuous Integration/Continuous Deployment), the software development process becomes seamless. These practices form a structured guide for developing software; without them, the process can become disorganized and time-consuming.
+- **Improves Efficiency and Productivity:** By following standardized practices such as Agile, DevOps, and CI/CD (Continuous Integration/Continuous Deployment), the software development process becomes seamless. These practices form a structured guide for developing software; without them, the process can become disorganized and time-consuming.
 
 ### b) Identify and describe at least three key milestones in the evolution of software engineering.
 
-**The Pioneering Days (1940s-1950s):**
+- **The Pioneering Days (1940s-1950s):**
 This was the early stage of computing, where there were no IDEs and programmers had to write machine-level instructions manually by hand, feeding these instructions to computers like ENIAC and UNIVAC using punch cards. Programming was tedious and error-prone during this stage.
 
-**The Birth of High-Level Languages (1950s-1960s):**
+- **The Birth of High-Level Languages (1950s-1960s):**
 This stage marked the advent of high-level programming languages such as Fortran, COBOL, and BASIC. Computer programs were written using these languages, and were translated into machine code using compilers and interpreters which made programming easier compared to writing machine code manually by hand.
 
-**The Rise of Object-Oriented Programming (OOP) (1970s-1980s):**
+- **The Rise of Object-Oriented Programming (OOP) (1970s-1980s):**
 This stage introduced a new paradigm of programming which made written code to be more modular, reusable, and scalable. Before this era, computer programs were written in a procedural style. The four pillars of OOP are abstraction, encapsulation, inheritance, and polymorphism.
 
 ### c) List and briefly explain the phases of the Software Development Life Cycle.
@@ -80,12 +80,12 @@ This stage introduced a new paradigm of programming which made written code to b
 
 
 ### f) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
--  **Importance of Integrated Development Environments (IDEs):**
+**Importance of Integrated Development Environments (IDEs):**
 Integrated Development Environments (IDEs) are important because they provide code editing, debugging, and automation tools in one platform. Without IDEs, writing code would be more difficult and time-consuming.
 
    **Examples of IDEs include:** VS Code, IntelliJ IDEA, Eclipse, Android Studio, Xcode, PyCharm, WebStorm.
 
-- **Importance of Version Control Systems (VCS):**
+**Importance of Version Control Systems (VCS):**
 Version Control systems are important because they help in collaboration, preventing data loss, providing support for branching and merging, ensuring code integrity, as well as providing the ability for developers to rollback to stable versions of their code whenever it is needed.
 
   **Examples of IDEs include:** Git, Subversion (SVN), Mercurial, Perforce, CVS.
